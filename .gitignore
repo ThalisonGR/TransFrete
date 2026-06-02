@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+frontend/node_modules/
+
+# Build do frontend
+frontend/dist/
+
+# Variáveis de ambiente / segredos
+.env
+api/.env
+frontend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional / editores
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
